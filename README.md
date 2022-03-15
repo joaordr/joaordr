@@ -2,6 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/joaordr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaordr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaordr&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
@@ -18,16 +19,9 @@
   
 <br>
   
-<<<<<<< HEAD
 <div align="center">
   <a href="https://www.instagram.com/joao.rodr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"   target="_blank"></a>
   <a href = "mailto:jrp2033@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-rodrigo-prieto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-=======
-<div align="center"> 
-  <a href="https://instagram.com/joao.rodr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"   target="_blank"></a>
-  <a href = "mailto:jrp2033@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joao-rodrigo-prieto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
->>>>>>> 9eb0024fc4ac11aa62f6824476d9cc1ec7cf4aff
   
 </div>
